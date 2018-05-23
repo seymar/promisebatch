@@ -1,6 +1,6 @@
 {
-  "name": "promisebatch",
-  "version": "1.0.0",
+  "name": "@seymar/promisebatch",
+  "version": "1.0.1",
   "description": "Executes an array of promises in batches",
   "main": "promisebatch.js",
   "scripts": {
