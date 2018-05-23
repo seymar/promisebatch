@@ -1,0 +1,28 @@
+{
+  "name": "promisebatch",
+  "version": "1.0.0",
+  "description": "Executes an array of promises in batches",
+  "main": "promisebatch.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/seymar/promisebatch.git"
+  },
+  "keywords": [
+    "promise",
+    "batch",
+    "batches",
+    "group",
+    "groups",
+    "parallel",
+    "sequential"
+  ],
+  "author": "seymar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seymar/promisebatch/issues"
+  },
+  "homepage": "https://github.com/seymar/promisebatch#readme"
+}
